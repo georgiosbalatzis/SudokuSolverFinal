@@ -1,0 +1,14 @@
+/Users/giorgos/RiderProjects/SudokuSolver/obj/Debug/net8.0/SudokuSolver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgos/RiderProjects/SudokuSolver/obj/Debug/net8.0/SudokuSolver.AssemblyInfoInputs.cache
+/Users/giorgos/RiderProjects/SudokuSolver/obj/Debug/net8.0/SudokuSolver.AssemblyInfo.cs
+/Users/giorgos/RiderProjects/SudokuSolver/obj/Debug/net8.0/SudokuSolver.csproj.CoreCompileInputs.cache
+/Users/giorgos/RiderProjects/SudokuSolver/bin/Debug/net8.0/SudokuSolver
+/Users/giorgos/RiderProjects/SudokuSolver/bin/Debug/net8.0/SudokuSolver.deps.json
+/Users/giorgos/RiderProjects/SudokuSolver/bin/Debug/net8.0/SudokuSolver.runtimeconfig.json
+/Users/giorgos/RiderProjects/SudokuSolver/bin/Debug/net8.0/SudokuSolver.dll
+/Users/giorgos/RiderProjects/SudokuSolver/bin/Debug/net8.0/SudokuSolver.pdb
+/Users/giorgos/RiderProjects/SudokuSolver/obj/Debug/net8.0/SudokuSolver.dll
+/Users/giorgos/RiderProjects/SudokuSolver/obj/Debug/net8.0/refint/SudokuSolver.dll
+/Users/giorgos/RiderProjects/SudokuSolver/obj/Debug/net8.0/SudokuSolver.pdb
+/Users/giorgos/RiderProjects/SudokuSolver/obj/Debug/net8.0/SudokuSolver.genruntimeconfig.cache
+/Users/giorgos/RiderProjects/SudokuSolver/obj/Debug/net8.0/ref/SudokuSolver.dll
